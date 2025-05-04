@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "PPC",
+    "PCG"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "P": {
+      "item": "liposcraftablegunpowder:potassium_nitrate"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:gunpowder"
+  }
+}
